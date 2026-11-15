@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-v6.gif" width="100%" alt="Hi! I'm SALMAN. AI enthusiast, founder of Selami, making math fun, shipping every day."/>
+<img src="assets/banner-v7.gif" width="100%" alt="Hi! I'm SALMAN. AI enthusiast, founder of Selami, making math fun, shipping every day."/>
 
 <br/>
 
