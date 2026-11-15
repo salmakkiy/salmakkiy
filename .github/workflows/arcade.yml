@@ -1,4 +1,4 @@
-name: Snake
+name: Arcade
 
 on:
   schedule:
@@ -17,20 +17,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Kartu dibuat dulu, sebelum langkah snake (yang berjalan sebagai root di dalam docker)
+      # Kartu dibuat dulu, sebelum langkah Pac-Man
       - name: Generate activity card
         run: python3 .github/scripts/kartu.py dist/activity.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
 
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - name: Generate Pac-Man
+        uses: abozanona/pacman-contribution-graph@v5.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#7FB2FF&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+          games: "pacman"
+          hide_month_labels: "true"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

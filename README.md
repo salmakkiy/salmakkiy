@@ -32,9 +32,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmakkiy/salmakkiy/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmakkiy/salmakkiy/output/github-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/salmakkiy/salmakkiy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmakkiy/salmakkiy/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmakkiy/salmakkiy/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/salmakkiy/salmakkiy/output/pacman-contribution-graph-dark.svg" />
   </picture>
 </p>
 
