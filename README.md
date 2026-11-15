@@ -38,11 +38,7 @@
 ### 📈 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=salmakkiy&theme=tokyonight&hide_border=true&background=0b1020&ring=7FB2FF&fire=7FB2FF&currStreakLabel=7FB2FF" alt="Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmakkiy&bg_color=0b1020&color=cfe0ff&line=7FB2FF&point=ffffff&area=true&area_color=2f6fd6&hide_border=true&custom_title=Contributions" alt="Contribution graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/salmakkiy/salmakkiy/output/activity.svg" alt="Contributions in the last 60 days" width="100%"/>
 </p>
 
 <p align="center">
