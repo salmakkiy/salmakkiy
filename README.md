@@ -16,8 +16,6 @@
 🎓 Incoming **Computer Science** student at **The University of Melbourne** ('29)  
 🏅 **LPDP Garuda Scholarship** awardee  
 🐙 Founder of **[Selami](https://selami.id)**, a math app that makes kids actually want to practice  
-🎬 Roblox story shorts with **1M+ views**  
-🎤 Speaker at **Geo-Math Talks**, SNBT workshop (Nov 2026)  
 
 ---
 
