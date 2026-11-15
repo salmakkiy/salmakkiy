@@ -20,7 +20,7 @@
 
 ---
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, React, Vite, Tailwind, Node.js, Python, Lua, Swift, Blender, Roblox Studio"/>
+<img src="assets/stack-v2.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, React, Vite, Tailwind, Node.js, Python, Lua, Swift, Blender, Roblox Studio"/>
 
 ---
 
