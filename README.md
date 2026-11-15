@@ -15,15 +15,12 @@
 
 🎓 Incoming **Computer Science** student at **The University of Melbourne** ('29)  
 🏅 **LPDP Garuda Scholarship** awardee  
+🏆 Medalist in national & international **Math** and **Informatics Olympiads**  
 🐙 Founder of **[Selami](https://selami.id)**, a math app that makes kids actually want to practice  
 
 ---
 
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,nodejs,python,lua,swift,blender&theme=dark" alt="TypeScript, JavaScript, React, Vite, Tailwind, Node.js, Python, Lua, Swift, Blender"/>
-</p>
+<img src="assets/stack.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, React, Vite, Tailwind, Node.js, Python, Lua, Swift, Blender, Roblox Studio"/>
 
 ---
 
