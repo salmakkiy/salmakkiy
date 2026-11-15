@@ -4,8 +4,8 @@
 
 <br/>
 
-<a href="https://instagram.com/salmakkiy"><img src="assets/kaset-ig-v5.svg" height="175" alt="Instagram @salmakkiy"/></a>&nbsp;&nbsp;
-<a href="https://selami.id"><img src="assets/kaset-selami-v5.svg" height="175" alt="selami.id"/></a>
+<a href="https://instagram.com/salmakkiy"><img src="assets/kaset-ig-v6.svg" height="175" alt="Instagram @salmakkiy"/></a>&nbsp;&nbsp;
+<a href="https://selami.id"><img src="assets/kaset-selami-v6.svg" height="175" alt="selami.id"/></a>
 
 </div>
 
