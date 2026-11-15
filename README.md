@@ -27,7 +27,7 @@
 ## Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/salmakkiy/salmakkiy/output/activity.svg" alt="Contributions in the last 60 days" width="100%"/>
+  <img src="https://raw.githubusercontent.com/salmakkiy/salmakkiy/output/activity.svg?v=1" alt="Contributions in the last 60 days" width="100%"/>
 </p>
 
 <p align="center">
