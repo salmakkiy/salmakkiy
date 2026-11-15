@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://selami.id"><img src="assets/banner-v3.gif" width="100%" alt="PLAYER 1: SALMAN. Making math feel like play. selami.id"/></a>
+<a href="https://selami.id"><img src="assets/banner-v4.gif" width="100%" alt="PLAYER 1: SALMAN. Making math feel like play. selami.id"/></a>
 
 <br/>
 
