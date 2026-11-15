@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://selami.id"><img src="assets/banner.gif" width="100%" alt="salman@selami ~ % whoami: founder of Selami, making math feel like play, shipping every single day"/></a>
+<a href="https://selami.id"><img src="assets/banner-v2.gif" width="100%" alt="salman@selami ~ % whoami: founder of Selami, making math feel like play, shipping every single day"/></a>
 
 <br/>
 
