@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/banner-v9.gif" width="100%" alt="Hi! I'm SALMAN. AI enthusiast, founder of Selami, making math fun, shipping every day."/>
+<img src="assets/banner-v10.gif" width="100%" alt="Hi! I'm SALMAN. AI enthusiast, founder of Selami, making math fun, shipping every day."/>
 
 <br/>
 
-<a href="https://instagram.com/salmakkiy"><img src="https://img.shields.io/badge/@salmakkiy-2a1a52?style=for-the-badge&logo=instagram&logoColor=C9B8FF" alt="Instagram @salmakkiy"/></a>
-<a href="https://selami.id"><img src="https://img.shields.io/badge/selami.id-2a1a52?style=for-the-badge&logo=googlechrome&logoColor=C9B8FF" alt="selami.id"/></a>
+<a href="https://instagram.com/salmakkiy"><img src="assets/tombol-ig.svg" height="56" alt="Instagram @salmakkiy"/></a>&nbsp;
+<a href="https://selami.id"><img src="assets/tombol-selami.svg" height="56" alt="selami.id"/></a>
 
 </div>
 
