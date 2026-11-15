@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:1b2a4a,100:2f6fd6&height=230&section=header&text=Salman&fontSize=78&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Founder%20of%20Selami&descSize=20&descAlignY=58&descColor=cfe0ff" width="100%" alt="Salman"/>
-
-<a href="https://selami.id">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=7FB2FF&center=true&vCenter=true&width=640&height=46&lines=Building+Selami%2C+a+math+app+kids+actually+love;Learning+math+by+exploring+the+ocean;Shipping+every+day+with+AI+agents" alt="Typing intro"/>
-</a>
+<a href="https://selami.id"><img src="assets/banner.gif" width="100%" alt="salman@selami ~ % whoami: founder of Selami, making math feel like play, shipping every single day"/></a>
 
 <br/>
 
-<a href="https://selami.id"><img src="https://img.shields.io/badge/selami.id-0b1020?style=for-the-badge&logo=googlechrome&logoColor=7FB2FF" alt="selami.id"/></a>
-<a href="https://instagram.com/selami.id"><img src="https://img.shields.io/badge/@selami.id-0b1020?style=for-the-badge&logo=instagram&logoColor=7FB2FF" alt="Instagram"/></a>
-<a href="https://youtube.com/@selami.official"><img src="https://img.shields.io/badge/@selami.official-0b1020?style=for-the-badge&logo=youtube&logoColor=7FB2FF" alt="YouTube"/></a>
+<a href="https://selami.id"><img src="https://img.shields.io/badge/selami.id-2a1a52?style=for-the-badge&logo=googlechrome&logoColor=C9B8FF" alt="selami.id"/></a>
+<a href="https://instagram.com/selami.id"><img src="https://img.shields.io/badge/@selami.id-2a1a52?style=for-the-badge&logo=instagram&logoColor=C9B8FF" alt="Instagram"/></a>
+<a href="https://youtube.com/@selami.official"><img src="https://img.shields.io/badge/@selami.official-2a1a52?style=for-the-badge&logo=youtube&logoColor=C9B8FF" alt="YouTube"/></a>
 
 </div>
 
@@ -49,4 +45,4 @@
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f6fd6,55:1b2a4a,100:0b1020&height=120&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b2a8a,55:2a1a52,100:120b24&height=110&section=footer" width="100%" alt=""/>
