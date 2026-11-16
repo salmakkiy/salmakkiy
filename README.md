@@ -22,21 +22,4 @@
 
 <img src="assets/stack-v2.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, React, Vite, Tailwind, Node.js, Python, Lua, Swift, Blender, Roblox Studio"/>
 
----
-
-## Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/salmakkiy/salmakkiy/output/activity.svg?v=15" alt="Contributions in the last 60 days" width="100%"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmakkiy/salmakkiy/output/pacman-contribution-graph-dark.svg?v=15" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmakkiy/salmakkiy/output/pacman-contribution-graph.svg?v=15" />
-    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/salmakkiy/salmakkiy/output/pacman-contribution-graph-dark.svg?v=15" />
-  </picture>
-</p>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b2a8a,55:2a1a52,100:120b24&height=110&section=footer" width="100%" alt=""/>
